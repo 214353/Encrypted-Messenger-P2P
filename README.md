@@ -4,9 +4,9 @@ To install the Dependencies:
 > pip install cryptography
 
 To download the Repository:
-> git clone my dick
+> git clone https://github.com/214353/Encrypted-Messenger-P2P
 
-> cd
+> cd Encrypted-Messenger-P2P
 # Usage
 
 To host a chat:
