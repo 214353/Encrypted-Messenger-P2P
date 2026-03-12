@@ -1,2 +1,9 @@
 # Encrypted-Messenger-P2P
-h
+
+To install the Dependencies:
+
+pip install cryptography
+
+
+
+
